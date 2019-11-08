@@ -1,0 +1,22 @@
+Type: Compendium
+Package: cuddly-octo-waffle
+Title: Weight of apples is important to something
+Version: 0.0.1
+Authors@R: c(
+    person(given = "Saras",
+           family = "Last",
+           role = c("aut", "cre"),
+           email = "first.last@example.com",
+           comment = c(ORCID = "YOUR-ORCID-ID")),
+        person(given = "David",
+           family = "Last",
+           role = c("aut", "cre"),
+           email = "first.last@example.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+    )
+Description: This is the repo associated with my brilliant paper published in Agricutlure Today. 
+License: MIT + file LICENSE
+Depends: 
+    ggplot2
+Encoding: UTF-8
+LazyData: true
